@@ -12,3 +12,5 @@ A repo of resources for electronic structure calculations. May be mildly biased 
 # Texts
 * Electronic structure: Basic Theory and Practical Methods, Richard Martin
 * Electronic Structure: Calculations for Solids and Molecules: Theory and Computational Methods, Jorge Kohanoff
+* Fundamentals of Condensed Matter Physics, Marvin L. Cohen and Steven G. Louie
+* The Theory of Quantum Liquids, David Pines and Philippe Nozieres
