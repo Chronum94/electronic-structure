@@ -15,3 +15,4 @@ A repo of resources for electronic structure calculations. May be mildly biased 
 * Fundamentals of Condensed Matter Physics, Marvin L. Cohen and Steven G. Louie
 * The Theory of Quantum Liquids, David Pines and Philippe Nozieres
 * Materials Modelling using Density Functional Theory: Properties and Predictions, Feliciano Giustino
+* Quantum Theory of the Electron Liquid: Gabriele F. Giuliani and Giovanni Vignale
